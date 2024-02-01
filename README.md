@@ -8,7 +8,7 @@
 <img src="./assets/scode_logo.png"
   alt="Alt text"
   title="Scode.dev Logo"
-  style="max-width: 300px"
+  style="max-width: 100px"
   />
 </p>
 
