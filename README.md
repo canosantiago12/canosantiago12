@@ -7,8 +7,8 @@
 <p align='center'> 
 <img src="./assets/scode_logo.png"
   alt="Alt text"
-  title="Optional title"
-  style="max-width: 500px"
+  title="Scode.dev Logo"
+  style="max-width: 300px"
   />
 </p>
 
