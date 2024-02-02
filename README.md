@@ -16,7 +16,7 @@
 
 # Welcome to my GitHub account ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Table of Contents
+## Table of contents
 
 - [About me](#about-me)
 - [Coding 👨‍💻](#coding)
