@@ -5,12 +5,50 @@
 <!-- ![Scode Logo](/assets/scode_logo.png 'Scode Logo') -->
 
 <p align='center'> 
-<img src="./assets/scode_logo.png"
-  alt="Alt text"
-  title="Scode.dev Logo"
-  style="max-width: 100px"
-  />
+  <img src="./assets/scode_logo.png"
+    alt="Alt text"
+    title="Scode.dev Logo"
+    style="max-width: 500px"
+    />
 </p>
+
+---
+
+# Welcome to my GitHub account ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Table of Contents
+
+- [About me](#about-me)
+- [Coding 👨‍💻](#coding)
+  - [Tech Stack](#tech-stack)
+- [Art](#art)
+- [Gaming](#gaming)
+
+### About me
+
+Hey I'm Santiago!
+I am a software engineer from Mexico 🇲🇽. I'm 24 and currently live in Monterrey. I have 4 beautiful dogs but I prefer cats even tho I've never had one in my life.
+
+Some of my interests are:
+
+- Playing videogames
+- Digital art (3D, digital drawing and animation)
+- Playing music
+- Running
+- Dancing (HipHop, K-pop, Urban)
+- Tabletop / card / roleplaying / social deduction games
+
+### Coding 👨‍💻
+
+I specialize in web development (full-stack) although I prefer frontend development. I also
+
+#### Tech Stack
+
+### Art
+
+I consider myself a beginner to intermediate level 3D modeling artist. I use blender for my art projects and I'm still learning and taking courses to improve my skills.
+
+### Gaming
 
 <!--
 **canosantiago12/canosantiago12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
