@@ -22,7 +22,6 @@
 - [Coding 👨‍💻](#coding)
   - [Tech Stack](#tech-stack)
 - [Art](#art)
-- [Gaming](#gaming)
 
 ### About me
 
@@ -47,8 +46,6 @@ I specialize in web development (full-stack) although I prefer frontend developm
 ### Art
 
 I consider myself a beginner to intermediate level 3D modeling artist. I use blender for my art projects and I'm still learning and taking courses to improve my skills.
-
-### Gaming
 
 <!--
 **canosantiago12/canosantiago12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
